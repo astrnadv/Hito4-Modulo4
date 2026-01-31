@@ -1,0 +1,32 @@
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+  background-color: #222;
+}
+
+nav button {
+  background-color: #343a40;
+  color: white;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.total {
+  margin-left: auto;
+  background-color: #198754;
+}
+
+.nombrePizzeria{
+  margin: 0 1.5rem 0 0;
+  padding: 0;
+  color: #ffffff;
+  font-size: 20px;
+}
