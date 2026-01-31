@@ -13,7 +13,7 @@ const App = () => {
       <Navbar />
 
       <main className="container">
-        <Home />
+        {/*<Home />*/}
         {/*<Register />*/}
         {/*<Login />*/}
         {/*<Cart /> />*/}
